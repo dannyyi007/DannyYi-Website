@@ -1,6 +1,6 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Danny Yi's Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+Hello, my name is Danny Yi. Welcome to my website. My website shows all of the work and volunteer I have done. It emphasizes my accomplishments and achievements throughout my college experience. 
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![Danny's Website](img/screenshot.png)
